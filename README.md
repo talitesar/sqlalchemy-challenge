@@ -1,1 +1,3 @@
 # sqlalchemy-challenge
+
+This repository contains an analysis of weather data from a number of weather stations in Hawaii using the Python package SQLAlchemy. This package connects to a SQLite database, allowing for use of python and Pandas to conduct analysis and produce figures. In addition to using SQLAlchemy and pandas to analyze the data, the app.py file contains a program using Flask to create an interactive API that produces this analysis in a readable JSON format. 
